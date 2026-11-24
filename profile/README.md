@@ -116,6 +116,8 @@
 | [WPF_FileIO_MyNotepad](https://github.com/GAMF-Progpar-Vizprog/WPF_FileIO_MyNotepad) | 🇭🇺 WPF: jegyzettömb fájlmegnyitással és -mentéssel.<br>🇬🇧 WPF: a notepad with opening and saving files. | [`wpf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Awpf&type=repositories) [`english`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Aenglish&type=repositories) |
 | [WPF_FileIO_Szovegiro](https://github.com/GAMF-Progpar-Vizprog/WPF_FileIO_Szovegiro) | 🇭🇺 WPF: egyszerű szövegszerkesztő fájlkezeléssel.<br>🇬🇧 WPF: a simple text editor with file handling. | [`wpf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Awpf&type=repositories) [`hungarian`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Ahungarian&type=repositories) |
 | [WPF_Timer_PongOne](https://github.com/GAMF-Progpar-Vizprog/WPF_Timer_PongOne) | 🇭🇺 WPF: egyszemélyes pong játék időzítővel.<br>🇬🇧 WPF: a one-player pong game with a timer. | [`csharp`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Acsharp&type=repositories) [`dotnet`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adotnet&type=repositories) [`wpf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Awpf&type=repositories) [`xaml`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Axaml&type=repositories) [`timer`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Atimer&type=repositories) [`game`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Agame&type=repositories) [`english`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Aenglish&type=repositories) |
+| [WPF_Controls_Memoriajatek](https://github.com/GAMF-Progpar-Vizprog/WPF_Controls_Memoriajatek) | 🇭🇺 WPF: memóriajáték képpárokkal, menüvel és saját párbeszédablakkal.<br>🇬🇧 WPF: a memory game with picture pairs, a menu and a custom dialog box. | [`csharp`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Acsharp&type=repositories) [`dotnet`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adotnet&type=repositories) [`wpf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Awpf&type=repositories) [`xaml`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Axaml&type=repositories) [`menu`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Amenu&type=repositories) [`dialog`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adialog&type=repositories) [`game`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Agame&type=repositories) [`hungarian`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Ahungarian&type=repositories) |
+| [WPF_FileIO_Kepnezegeto](https://github.com/GAMF-Progpar-Vizprog/WPF_FileIO_Kepnezegeto) | 🇭🇺 WPF: képnézegető mappaválasztással és bélyegképekkel.<br>🇬🇧 WPF: a picture viewer with folder selection and thumbnails. | [`csharp`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Acsharp&type=repositories) [`dotnet`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adotnet&type=repositories) [`wpf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Awpf&type=repositories) [`xaml`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Axaml&type=repositories) [`dialog`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adialog&type=repositories) [`file-io`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Afile-io&type=repositories) [`hungarian`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Ahungarian&type=repositories) |
 
 ## WPF – grafika és animáció · WPF – graphics and animation
 
@@ -169,11 +171,11 @@ A topicra kattintva a szervezet összes ilyen topicú tárolója megjelenik. · 
 | Topic | Jelentés | Meaning | Tárolók · Repos |
 |---|---|---|---:|
 | [`english`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Aenglish&type=repositories) | angol nyelvű | English language | 60 |
-| [`wpf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Awpf&type=repositories) | WPF | WPF | 55 |
-| [`hungarian`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Ahungarian&type=repositories) | magyar nyelvű | Hungarian language | 42 |
-| [`csharp`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Acsharp&type=repositories) | C# nyelv | C# language | 26 |
-| [`dotnet`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adotnet&type=repositories) | .NET | .NET | 26 |
-| [`xaml`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Axaml&type=repositories) | XAML felületleírás | XAML user interface | 17 |
+| [`wpf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Awpf&type=repositories) | WPF | WPF | 57 |
+| [`hungarian`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Ahungarian&type=repositories) | magyar nyelvű | Hungarian language | 44 |
+| [`csharp`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Acsharp&type=repositories) | C# nyelv | C# language | 28 |
+| [`dotnet`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adotnet&type=repositories) | .NET | .NET | 28 |
+| [`xaml`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Axaml&type=repositories) | XAML felületleírás | XAML user interface | 19 |
 | [`cn`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Acn&type=repositories) | konzolos alkalmazás | console application | 16 |
 | [`wf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Awf&type=repositories) | Windows Forms | Windows Forms | 10 |
 | [`linq`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Alinq&type=repositories) | LINQ | LINQ | 8 |
@@ -182,20 +184,21 @@ A topicra kattintva a szervezet összes ilyen topicú tárolója megjelenik. · 
 | [`maui`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Amaui&type=repositories) | .NET MAUI | .NET MAUI | 7 |
 | [`efc`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Aefc&type=repositories) | Entity Framework Core | Entity Framework Core | 6 |
 | [`datagrid`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adatagrid&type=repositories) | DataGrid | DataGrid | 4 |
+| [`dialog`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adialog&type=repositories) | párbeszédablak | dialog box | 4 |
+| [`game`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Agame&type=repositories) | játék | game | 4 |
 | [`cf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Acf&type=repositories) | Code First megközelítés | Code First approach | 3 |
 | [`controls`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Acontrols&type=repositories) | vezérlők | controls | 3 |
 | [`data-binding`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adata-binding&type=repositories) | adatkötés | data binding | 3 |
-| [`game`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Agame&type=repositories) | játék | game | 3 |
 | [`httpclient`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Ahttpclient&type=repositories) | HttpClient | HttpClient | 3 |
 | [`json`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Ajson&type=repositories) | JSON | JSON | 3 |
 | [`layout`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Alayout&type=repositories) | elrendezés | layout | 3 |
+| [`menu`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Amenu&type=repositories) | menü | menu | 3 |
 | [`rest-api`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Arest-api&type=repositories) | webes (REST) API | web (REST) API | 3 |
-| [`dialog`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adialog&type=repositories) | párbeszédablak | dialog box | 2 |
-| [`menu`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Amenu&type=repositories) | menü | menu | 2 |
 | [`mf`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Amf&type=repositories) | Model First megközelítés | Model First approach | 2 |
 | [`sql-server`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Asql-server&type=repositories) | SQL Server | SQL Server | 2 |
 | [`df`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Adf&type=repositories) | Database First megközelítés | Database First approach | 1 |
 | [`entity-developer`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Aentity-developer&type=repositories) | Devart Entity Developer | Devart Entity Developer | 1 |
+| [`file-io`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Afile-io&type=repositories) | fájlkezelés | file handling | 1 |
 | [`timer`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Atimer&type=repositories) | időzítő | timer | 1 |
 | [`xml`](https://github.com/search?q=org%3AGAMF-Progpar-Vizprog%20topic%3Axml&type=repositories) | XML | XML | 1 |
 
